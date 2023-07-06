@@ -1,3 +1,5 @@
+//Integrantes: Jose Berastegui, Juan Jattin, Diomedes Hernandez - Configuracion de Dispositivos electronicos
+
 #include <LiquidCrystal.h>  // Incluye la biblioteca LiquidCrystal para controlar la pantalla LCD
 #include <DHT.h>  // Incluye la biblioteca DHT para trabajar con el sensor DHT
 
