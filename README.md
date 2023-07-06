@@ -1,4 +1,4 @@
-# ProyectoFinal
+# Proyecto Final - Configuracion de Dispositivos Electronicos
 
 El objetivo principal del proyecto es resolver los problemas relacionados con la 
 implementación y el uso incorrecto de los sensores, con el fin de obtener datos precisos y 
